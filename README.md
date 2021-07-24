@@ -1,4 +1,2 @@
-# Cryptography and Cybersecurity
-Works done related to Cryptography. Contains implementation of some simple encryption protocols.
-
-# It's not well organized
+# Cryptography and Information Security
+This directory contains the implementations done in Cryptography and Network Security lab.
