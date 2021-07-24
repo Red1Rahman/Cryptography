@@ -1,2 +1,0 @@
-With the explosive growth of internet, availability of cost-effective computing platforms and pervasive usages of resource-constrained devices, data nowadays are handled in many innovative ways.
-
